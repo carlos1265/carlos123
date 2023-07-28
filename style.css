@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: #0026F2;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 0;
+    }
+
+.cabeçalho-imagem{
+        width: 20%;
+    }
+
+ .cabeçalho-lista-item{
+        display: inline-block;
+        margin: 0 77px;
+        font-size: 24px;
+    }
+
+.motos-piquiri-imagem{
+        width:2% ;
+    }
+
+.motos-piquiri{
+        background-image: linear-gradient(#0DE5F2,#0026F2);
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 24px 0;
+    }
+
+.motos-piquiri-div-conteudo{
+        width: 50%;
+    }
+
+.motos-piquiri-titulo{
+        padding: 24px 0;
+    }
+
+.imagem-produto{
+        width: 300px;
+    }
+
+.imagem-produto{
+        width: 300px;
+    }
+
+.produto-div{
+        align-items: center;
+    }
+
+.motos-piquiri-secundario{
+    text-align: center;
+    padding: 50px 0;
+}
+
+.imagem-produto{
+    display: grid;
+    grid-template-columns: -70% -70% -70% -70% -70% -70%;
+}
+.rodape{
+    background-color: black;
+}
+.rodape{
+    height: 60px;
+}
+        
